@@ -1,0 +1,2 @@
+-keepattributes *Annotation*
+-keep class sbs.apoorv.clipsy.data.** { *; }
